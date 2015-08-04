@@ -1,0 +1,9 @@
+2015-08-04T17:39:58.109108+00:00 heroku[api]: Enable Logplex by pedro.urbina@gmail.com
+2015-08-04T17:39:58.109108+00:00 heroku[api]: Release v2 created by pedro.urbina@gmail.com
+2015-08-04T17:41:34.839865+00:00 heroku[slug-compiler]: Slug compilation failed: failed to compile Ruby app
+2015-08-04T17:41:34.839846+00:00 heroku[slug-compiler]: Slug compilation started
+2015-08-04T17:42:23.684749+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/" host=glacial-savannah-8271.herokuapp.com request_id=191b7cb5-a8d9-4928-a8aa-781205dcd4db fwd="108.197.252.29" dyno= connect= service= status=502 bytes=
+2015-08-04T17:42:24.528559+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/favicon.ico" host=glacial-savannah-8271.herokuapp.com request_id=4e02f1da-dc74-41e2-951d-6bf9bd6ab136 fwd="108.197.252.29" dyno= connect= service= status=502 bytes=
+2015-08-04T17:42:24.753966+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/favicon.ico" host=glacial-savannah-8271.herokuapp.com request_id=54fe7ebc-3290-4b58-8b84-2f3a140d27cb fwd="108.197.252.29" dyno= connect= service= status=502 bytes=
+2015-08-04T17:42:38.182559+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/" host=glacial-savannah-8271.herokuapp.com request_id=4939d5d7-5e81-4b06-a577-d4a053bdcf7d fwd="108.197.252.29" dyno= connect= service= status=502 bytes=
+2015-08-04T18:01:28.998907+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/" host=glacial-savannah-8271.herokuapp.com request_id=3808af55-42a2-4282-b166-80b572a6973d fwd="108.197.252.29" dyno= connect= service= status=502 bytes=
